@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392017972808",
+    "project_id": "dacn-bb47b",
+    "storage_bucket": "dacn-bb47b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392017972808:android:937a0ca002c7dfe7d0527d",
+        "android_client_info": {
+          "package_name": "com.example.images_blabla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcJTBkbox3_oRZ6aCDGcIxhvryk91_GEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
